@@ -1,6 +1,8 @@
-Ce tutoriel a été effectué dans le cadre de mon Msetr 2 SISE dans le cours de Technologie Big Data de M. Andianasolo
+# Technologies Big Data - Spark
 
-(https://andfanilo.github.io/lyon2/spark/)
+Ce tutoriel a été effectué dans le cadre de mon [Master 2 SISE](https://www.univ-lyon2.fr/master-2-informatique-statistique-et-informatique-sise) dans le cours de Technologies Big Data de M. Andianasolo.
+
+[https://andfanilo.github.io/lyon2/spark/](https://andfanilo.github.io/lyon2/spark/)
 
 ---
 
