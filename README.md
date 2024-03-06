@@ -1,3 +1,9 @@
+Ce tutoriel a été effectué dans le cadre de mon Msetr 2 SISE dans le cours de Technologie Big Data de M. Andianasolo
+
+(https://andfanilo.github.io/lyon2/spark/)
+
+---
+
 # Pyspark tutorial
 
 Welcome to the Pyspark tutorial section.
